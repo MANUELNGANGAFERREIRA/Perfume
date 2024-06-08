@@ -108,7 +108,7 @@ p{
     .card-content{
         display: flex;
         flex-direction: column;
-        width: 400px;
+        width: 90%;
         height: 650px;
         border-radius: 8px;
         background-color: #fff;
